@@ -1,0 +1,7 @@
+!!biz.k11i.shibuyajava.WordCount
+    elapsedMillis: 10
+    text: Hello world WORLD
+    wordCounts:
+        hello: 1
+        world: 2
+    top3Words: ['world', 'hello']
